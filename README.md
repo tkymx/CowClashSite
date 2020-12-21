@@ -1,0 +1,2 @@
+# CowClashSite
+CowClashのメインサイトです。
