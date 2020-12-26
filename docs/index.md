@@ -1,13 +1,8 @@
-## CowClash
+## ダウンロードリンク
 
-丑年を記念して作られたモバイルゲームです。
-ぜひ遊んでみてください！
-
-### ダウンロードリンク
-
-## iOS
+### iOS
 [![Apple](Apple.png)](https://apps.apple.com/us/app/cowclash/id1546083311)
 
-## Android
+### Android
 
-### [プライバシーポリシー](poricy.md)
+## [プライバシーポリシー](poricy.md)
